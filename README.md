@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science for life! 
+Data Science For Life! 
